@@ -1,23 +1,21 @@
 🇬🇧 [Read in English](README.md)
 
-# Mini Check-in
+# Mini Check-in — Hệ thống Điểm danh
 
-Hệ thống điểm danh sự kiện
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
-## Công nghệ
+Hệ thống điểm danh và theo dõi chuyên cần bằng React + Firebase. Có quét QR, xuất Excel, và dashboard phân tích real-time.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+## Tính năng chính
 
-## Tính năng
-
-- Điểm danh bằng QR code
-- Theo dõi chuyên cần
-- Quản lý sự kiện
-- Danh sách người tham gia real-time
+- **Điểm danh QR code** — theo dõi có mặt qua quét mã
+- **Firebase Realtime DB** — đồng bộ tức thì giữa các thiết bị
+- **Xuất Excel** — báo cáo chuyên cần với exceljs
+- **Dashboard phân tích** — xu hướng chuyên cần bằng Recharts
+- **Material UI** — components đẹp, accessible
+- **Vercel Blob** — tích hợp lưu trữ file
 
 ---
-
-## Tác giả
 
 **Xuan Linh** — Fullstack Developer
 
